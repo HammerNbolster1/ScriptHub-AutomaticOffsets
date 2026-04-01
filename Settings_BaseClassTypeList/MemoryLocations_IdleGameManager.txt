@@ -201,6 +201,7 @@ game.gameInstances.Screen.uiController.bottomBar.formationSaveMenu.formationButt
 game.gameInstances.Screen.uiController.bottomBar.formationSaveMenu.clearButton._x
 game.gameInstances.Screen.uiController.bottomBar.formationSaveMenu.clearButton._y
 game.gameInstances.Screen.uiController.bottomBar.heroPanel.clickDamageBox.maxLevelUpAllowed
+game.gameInstances.Screen.uiController.bottomBar.heroPanel.clickDamageBox.levelUpAmount
 game.gameInstances.Screen.uiController.bottomBar.heroPanel.clickDamageBox.levelUpButtonDisplay.lastCostText
 game.gameInstances.Screen.uiController.notificationManager.notificationDisplay.welcomeBackNotification.Active
 game.gameInstances.Screen.uiController.topBar.dpsMenuBox.menuBox.numberOfUnclaimedQuests
